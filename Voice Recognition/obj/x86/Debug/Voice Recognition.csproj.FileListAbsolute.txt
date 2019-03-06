@@ -1,0 +1,8 @@
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice_Recognition.Form1.resources
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice Recognition.csproj.GenerateResource.Cache
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice Recognition.exe
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice Recognition.pdb
+C:\Users\bAd-bAd-\Desktop\Voice Recognition\Voice Recognition\obj\x86\Debug\Voice Recognition.csprojResolveAssemblyReference.cache
